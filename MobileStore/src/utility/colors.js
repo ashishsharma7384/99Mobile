@@ -1,0 +1,30 @@
+const colors = {
+    white_clr: '#ffffff',
+    black_clr: '#000000',
+    main_app_clr: '#004080',
+    bg_clr: '#F5FAFE',
+    white_clr1: '#BFC0C2',
+    border_clr: '#9B9BA7',
+    grey_clr: '#393A3C',
+    grey_clr1: '#999999',
+    view_clr: '#5CB947',
+    edit_clr: '#2196f3',
+    delete_clr: '#e81d0e',
+    txt_clr: '#384055',
+    blue_clr: '#0053AC',
+    yellow_clr: '#ffc700',
+    red_clr: '#cc0000',
+    green_clr: '#35A20E',
+    green_bg: '#EFFDF1',
+    red_bg: '#FBF1F0',
+    yellow_bg: '#FFFCF3',
+    tabtxt_clr: '#62738c',
+    condi_color:'#1282C4',
+    color_bg:'#B0D7F3',
+    colr_red:'#E2622D',
+    whit_clr:'#FCFCFC',
+    orng_clr:'#E57433',
+    light_clr:'#EBECF0'
+}
+
+export default colors;
